@@ -1,1 +1,6 @@
+echo "This School is so cool!"
+nano bash/school
+echo "Best"
+echo "Best School"
+nano bash/school
 echo "Best School"
